@@ -41,33 +41,3 @@ public class UserLogin {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-        /*if (userName.equals("aslihan") && password == 123456789) {
-            System.out.print("You are succesfully logged in.");
-        } else {
-            System.out.print("Sorry, your password was incorrect.");
-            System.out.print("Forgot password ?\nWrite yes or no: ");
-            answer = scanner.nextLine();
-            if (answer.equals("yes")) {
-                System.out.print("Reset your password.\nEnter your new password: ");
-                newPassword = scanner.nextInt();
-                if (newPassword != password) {
-                    System.out.print("Password Changed!");
-                } else {
-                    System.out.println("Error: Unable to change the password.");
-                    System.out.print("Your new password must be different from current password.");
-                }
-            }
-        }
-    }
-}*/
-
