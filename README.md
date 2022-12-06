@@ -8,7 +8,7 @@ If the password is incorrect, the user can change the password.
 
 ## Installation
 Clone the project.
-> https://github.com/miyendisa/basic-calculator.git
+> https://github.com/miyendisa/user-login.git
 
 ---
 
